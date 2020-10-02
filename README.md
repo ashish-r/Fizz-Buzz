@@ -17,7 +17,7 @@ Fizz Buzz is the most common programming question asked during the interviews. T
 If this is your first contribution and you need any help, or if you are facing any issue. Comment here: <https://github.com/ashish-r/Fizz-Buzz/issues/4>
 
 # Hacktoberfest
-Hacktoberfest® (1 October-31 October) is open to everyone in the global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+Hacktoberfest® (1st October-31st October) is open to everyone in the global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
 Enter Your email on the website to win cool T-shirt.
 
