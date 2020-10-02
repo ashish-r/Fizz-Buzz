@@ -53,4 +53,4 @@ Website - <https://hacktoberfest.digitalocean.com/>
 
     - [Push your first code](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
 
-And, that's i
+And, that's it.
