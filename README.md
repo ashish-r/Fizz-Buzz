@@ -13,7 +13,7 @@ Sample Output:
 Fizz Buzz is the most common programming question asked during the interviews. The goal of this repository is to help beginners with their contributions in Open Source. Every contribution is appreciated, just make sure to follow the contribution guidelines.
 
 # Hacktoberfest
-Hacktoberfest®(1 October-31 October is open to everyone in our global community. Whether you’re a developer or a student learning to code.
+Hacktoberfest® (1 October-31 October) is open to everyone in our global community. Whether you’re a developer or a student learning to code.
 
 Enter Your email on the website to win T-shirt.
 
