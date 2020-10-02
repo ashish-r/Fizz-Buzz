@@ -1,0 +1,1 @@
+const fizzBuzz = () => Array.from(Array(100),(v,i) => (++i % 3 ? '' : 'Fizz') + (i % 5 ? '' : 'Buzz') || i)
