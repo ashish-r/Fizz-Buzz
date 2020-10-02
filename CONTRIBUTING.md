@@ -20,7 +20,7 @@
 
 3. ### Upload your Code or Change
 
-    Add solution in any language you want. If you are using a different approach, try not to overwrite the existing solution (create a different file for your solution). You can also format or strucure the already submitted codes.
+    Add solution in any language you want. If you are using a different approach, try not to overwrite the existing solution (create a different file for your solution). You can also format or strucure the already submitted codes (but it should not update the existing core logic).
 
     `Every contribution is appreciated. Happy Hacking! 😊`
 
