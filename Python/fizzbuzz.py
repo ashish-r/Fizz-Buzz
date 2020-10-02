@@ -1,14 +1,14 @@
-print('Enter a number')
+def fizz_buzz(input):
+    if input % 3 == 0:
+        if input % 5 == 0:
+            return "FizzBuzz"
+        else:
+            return "Fizz"
+    elif input % 5 == 0:
+        return "Buzz"
+    else:
+        return input
 
-n=int(input())
 
-for i in range(1,n+1):
-	if i%3==0 and i%5==0:
-		print("FizzBuzz, ",end='')
-	elif i%3==0:
-		print("Fizz, ",end='')
-	elif i%5==0:
-		print("Buzz, ",end='')
-	else:
-		print(i,', ',sep='',end='')
-	if(i%10==0):print()
+num = int(input())
+print(fizz_buzz(num))
