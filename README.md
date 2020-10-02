@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ashish-r/mern-registration-form/blob/master/LICENSE)
+
 # Problem Statement
 
 Write a program that prints the numbers from 1 to 100 and for multiples of '3' print "Fizz" instead of the number and for the multiples of '5' print "Buzz" and for the multiples of both '3' and '5' print "FizzBuzz".
@@ -49,5 +51,4 @@ Website - <https://hacktoberfest.digitalocean.com/>
 
     - [Push your first code](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
 
-And, that's it!
-
+And, that's i
