@@ -2,7 +2,7 @@
 
 # Problem Statement
 
-Write a program that prints the numbers from 1 to 100 and for multiples of '3' print "Fizz" instead of the number and for the multiples of '5' print "Buzz" and for the multiples of both '3' and '5' print "FizzBuzz".
+Write a program that prints the numbers from 1 to 100 but for multiples of '3' print "Fizz", for the multiples of '5' print "Buzz" and for the multiples of both '3' and '5' print "FizzBuzz" instead of the number.
 
 Sample Output: 
 
