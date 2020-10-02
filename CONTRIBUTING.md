@@ -20,11 +20,9 @@
 
 3. ### Upload your Code or Change
 
-    Make what change you want to make in Repo. It can be spelling mistake, code correction or anything.
+    Add solution in any language you want. If you are using a different approach, try not to overwrite the existing solution (create a different file for your solution). You can also format or strucure the already submitted codes.
 
-    You can also upload your program to respective folder. If folder for your programming language is not present, create one and add your code.
-
-    `All Repository are open for contributions.`
+    `Every contribution is appreciated. Happy Hacking! 😊`
 
 4. ### Push it and Make a PR
 
@@ -32,4 +30,4 @@
 
     - [Push your first code](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
 
-And, that's it.
+And, that's it. 🎉
