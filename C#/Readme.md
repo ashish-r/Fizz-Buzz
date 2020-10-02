@@ -1,4 +1,4 @@
-# C# program to implement FizzBuzz
+# C# programs to implement FizzBuzz
 
 Implementation of FizzBuzz involves printing numbers from 1 to 100.
 
