@@ -2,6 +2,10 @@
 
 # Problem Statement
 
+![FizzBuzz][FizzBuzz]
+
+[FizzBuzz]: https://www.ezrahill.co.uk/wp-content/2019/04/DraggedImage-1038x576.png
+
 Write a program that prints the numbers from 1 to 100 but for multiples of '3' print "Fizz", for the multiples of '5' print "Buzz" and for the multiples of both '3' and '5' print "FizzBuzz" instead of the number.
 
 Sample Output: 
