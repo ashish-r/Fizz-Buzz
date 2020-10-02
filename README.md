@@ -1,6 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ashish-r/mern-registration-form/blob/master/LICENSE)
-
-
 ![FizzBuzz][FizzBuzz]
 
 [FizzBuzz]: https://www.ezrahill.co.uk/wp-content/2019/04/DraggedImage-1038x576.png
@@ -26,3 +23,4 @@ Enter Your email on the website to win cool T-shirt.
 
 Website - <https://hacktoberfest.digitalocean.com/>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ashish-r/mern-registration-form/blob/master/LICENSE)
